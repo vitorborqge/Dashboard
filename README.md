@@ -17,7 +17,7 @@ Uma pagina de dashboard / painel basico para se utilizar dentro de uma empresa
 <p align="left">
   <a href='https://github.com/vitorborqge/Marvel-Vs-Capcom'>
   <img src="images/dashboard.jpeg" width="700" title="dashboard">
-  <!-- <img src="dashboard/images/dashboard.jpeg" width="700" title="dashboard"> -->
+  <!-- <img src="Dashboard/images/dashboard.jpeg" width="700" title="dashboard"> -->
   </a>
 </p>
  
